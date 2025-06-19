@@ -22,7 +22,7 @@ const HeroSection = () => {
                 <img 
                   src= {pict}
                   alt="Catherine Danielle - AI-Powered Web & App Developer"
-                  className="w-full h-150 object-cover rounded-2xl"
+                  className="w-full h-auto sm:h-[600px] object-contain sm:object-cover rounded-2xl"
                 />
               </div>
             </div>
