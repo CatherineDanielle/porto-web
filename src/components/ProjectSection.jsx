@@ -147,7 +147,7 @@ const ProjectSection = () => {
   }, []);
 
   return (
-    <section id="project" className="py-20 bg-[#FFFAFA]">
+    <section id="project" className="py-20 bg-[#FAF9F7]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center mb-12">
           <h2 className="text-4xl lg:text-6xl font-bold text-[#2A3749] font-['DM_Sans']">PROJECT</h2>
