@@ -1,8 +1,8 @@
 import React from 'react';
 
 import forespas from '../assets/forespas.jpg';
-import bendahara from '../assets/bendahara.jpg';
-import pembicara from '../assets/pembicara.jpg';
+import bendahara from '../assets/bendum.jpg';
+import pembicara from '../assets/ldkcp.jpg';
 import paud from '../assets/paud.jpg';
 import fl from '../assets/fl.jpg';
 
