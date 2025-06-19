@@ -3,7 +3,6 @@ import React from 'react';
 import forespas from '../assets/forespas.jpg';
 import bendahara from '../assets/bendahara.jpg';
 import paud from '../assets/paud.jpg';
-import pembicara from '../assets/pembicara.jpg';
 import fl from '../assets/fl.jpg';
 
 const experiences = [
@@ -25,7 +24,7 @@ const experiences = [
   {
     id: 4,
     title: 'Presented on Strategic Management during KMK Leadership Training.',
-    image: pembicara,
+    image: "https://drive.google.com/file/d/1ijAO1iGqeDNI86YHQScJpZqF_yZ7MsIi/view?usp=drive_link",
   },
   {
     id: 5,
